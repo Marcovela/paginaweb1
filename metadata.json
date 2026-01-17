@@ -1,0 +1,7 @@
+{
+  "name": "Mallas y Soldadura Arce",
+  "description": "Tienda líder en soluciones industriales y para el hogar en Perú. Venta de mallas, lonas, linóleo y servicios especializados de soldadura e instalación.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
